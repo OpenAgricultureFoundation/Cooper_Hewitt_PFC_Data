@@ -4,14 +4,13 @@ This repository contains data collected from a single Open Agriculture Personal 
 [timelapse.mp4](timelapse.mp4)
 A timelapse MP4 created from images collected between 2019-05-06 11:07:01 UTC and 2019-09-08 09:03:12 UTC
 
-![PFC Timelapse](timelapse.mp4  "PFC Timelapse")
-
 ## Data 
 You'll find a raw download of the data from our Google BigQuery backend in the `raw_data` directory. 
 
 In the `data` directory you'll find the data split out into individual CSV files. The python script that was used to do that is the `split_raw_data.py` file.
 
 Here are some stats on the split out data:
+
 | filename | datapoints | Max Val | Min Val | Median Val |
 | ----------- | -------------- | ----------- | --------- | --------------- |
 | air_carbon_dioxide_ppm_T6713-Top.csv | 35347 | 1871 | 0 | 540 |
