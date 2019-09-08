@@ -1,4 +1,4 @@
-This repository contains data collected from a single Open Agriculture Personal Food Computer, that has been running at the Cooper Hewitt Musuem since May, 2019.
+This repository contains data collected from a single Open Agriculture Personal Food Computer, that has been running at the Cooper Hewitt Museum since May, 2019.
 
 ## Timelapse
 [timelapse.mp4](timelapse.mp4)
