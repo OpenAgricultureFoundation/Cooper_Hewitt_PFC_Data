@@ -1,0 +1,8 @@
+variable, sensor_name, timestamp_utc, value, value_json
+alert,,2019-09-01 12:06:36 UTC,,"Low resources, disk: 49M, memory: 171M"
+alert,,2019-08-13 12:06:35 UTC,,"Low resources, disk: 49M, memory: 178M"
+alert,,2019-07-28 21:06:35 UTC,,"Low resources, disk: 49M, memory: 186M"
+alert,,2019-07-12 02:06:41 UTC,,"Low resources, disk: 48M, memory: 165M"
+alert,,2019-06-26 04:06:41 UTC,,"Low resources, disk: 48M, memory: 127M"
+alert,,2019-06-05 21:06:36 UTC,,"Low resources, disk: 49M, memory: 196M"
+alert,,2019-05-13 02:06:42 UTC,,"Low resources, disk: 49M, memory: 164M"
