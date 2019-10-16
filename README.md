@@ -1,10 +1,16 @@
 This repository contains data collected from a single Open Agriculture Personal Food Computer, that has been running at the Cooper Hewitt Museum since May, 2019.
 
-## Timelapse
+## Time-lapse
+
+A time lapse MP4 created from images collected between 2019-05-06 11:07:01 UTC and 2019-09-08 09:03:12 UTC.
+The images were downloaded using `wget` from the URLs in the `data/Camera-Top_URL.csv` file, and then `ffmpeg` was used to create the timelapse mp4.
+
+##### mp4 file:
 [timelapse.mp4](timelapse.mp4)
 
-A timelapse MP4 created from images collected between 2019-05-06 11:07:01 UTC and 2019-09-08 09:03:12 UTC.
-The images were downloaded using `wget` from the URLs in the `data/Camera-Top_URL.csv` file, and then `ffmpeg` was used to create the timelapse mp4.
+##### YouTube Version of the Time-lapse:
+[![YouTube Version](https://img.youtube.com/vi/7JyRHNoOHMw/0.jpg)](https://youtu.be/7JyRHNoOHMw)
+
 
 ## Data 
 You'll find a raw download of the data from our Google BigQuery backend in the `raw_data` directory. 
