@@ -6,7 +6,7 @@ The `OpenAg_CooperHewittData_2019_05_06-2020_01_21.*` files contain data from th
 of the exhibition from all three machines that were running. The data is in both `csv` and in `json` formats.
 
 ## NOTE
-Due to the large size of the complete data sets, the `OpenAg_CooperHewittData_2019_05_06-2020_01_21.*` files are stored using `git lfs`
+Due to the large size of the complete data sets, the `OpenAg_CooperHewittData_2019_05_06-2020_01_21.*` files are compressed in a `.zip` file
 
 ## Machine IDs
 There were three total machines running at the Cooper Hewitt.
